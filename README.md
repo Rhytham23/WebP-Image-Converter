@@ -61,7 +61,7 @@ logging.level.com.rhytham=DEBUG
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/imageConverter.git
+git clone https://github.com/Rhytham23/imageConverter.git
 cd imageConverter
 ```
 
