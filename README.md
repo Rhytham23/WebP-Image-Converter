@@ -129,8 +129,6 @@ images/
 
 ## 📝 Note
 
-This sample project replicates the image conversion module I built during my internship, where we processed ~10,000 images fetched from a database and uploaded them to a GCP bucket. This GitHub version demonstrates the same core logic but keeps it minimal for clarity and learning purposes.
+This sample project replicates the image conversion module I built during my internship, where we processed around 10,000 images fetched from a database and uploaded them to a GCP bucket. This GitHub version demonstrates the same core logic but keeps it minimal for clarity and learning purposes.
 
----
 
-Feel free to ⭐ the repo or fork it for your own use. Contributions welcome!
